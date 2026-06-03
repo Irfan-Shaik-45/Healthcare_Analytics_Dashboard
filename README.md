@@ -135,7 +135,7 @@ Aspiring Data Analyst
 ### Connect With Me
 
 - GitHub: https://github.com/Irfan-Shaik-45
-- LinkedIn: (Add your LinkedIn profile link here)
+- LinkedIn: https://www.linkedin.com/in/shaik-irfan-063b65335
 
 ---
 
